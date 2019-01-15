@@ -12,7 +12,7 @@ Otherwise, the user is told to select an appropriate quantity and is once again 
 # Images in ReadME
 
 ![](images/all.jpg)
-![](images/incorrectQuantity.jpg)
+![](images/correctQuantity.jpg)
 ![](images/notEnough.jpg)
 
       
